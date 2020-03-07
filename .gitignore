@@ -22,10 +22,10 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+**/*.iml
 
 # NPM
 **/*.lock
 
-# InjelliJ IDEA
-.idea
-**/*.iml
+# Docker
+/docker/image/build
